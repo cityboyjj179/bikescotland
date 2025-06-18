@@ -1,0 +1,53 @@
+body{
+    
+    background-color:  skyblue;
+text-align: center;
+}
+
+
+.bgDark{
+    
+    background-color:mediumturquoise;
+}
+
+a{ font size: 40
+    
+  font-family: "Puppies Play", cursive;
+  font-weight: 400;
+  font-style: normal;
+
+
+    
+    color: cornflowerblue
+}
+a:hover{
+    
+  
+
+
+    color: firebrick
+}
+
+
+
+h1 {
+ 
+  font-family: "Playwrite PE Guides", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
+h2 {
+   
+  font-family: "Playwrite PE Guides", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+h3 {
+ 
+  font-family: "Playwrite PE Guides", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
